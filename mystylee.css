@@ -27,21 +27,35 @@ body{
     color: #FF0000;
 }
 
-.servicios div{
-    display: inline-block; 
+.servicios{
+    margin-bottom: 75px;
 }
 
-.servicios-imagen1P{
+.imagenes{
+    text-align:center;
+    padding-top: 50px;  
+}
+
+
+.servicios-imagen1{
+    display: inline-block;
     
 }
 
 
 .servicios-imagen2{
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+
 }
+
 
 
 .servicios-imagen3{
+    display: inline-block;
 }
+
 
 .titulo-servicios{
     text-align:center;
